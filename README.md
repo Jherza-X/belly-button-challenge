@@ -22,3 +22,7 @@ The Belly Button Biodiversity Dashboard is built using D3.js for data visualizat
 static/js/app.js - contains the java script code for plotting and menu display.
 intex.html - contains the html code to call app.js
 samples.json - it is provided for reference.
+
+## Github Static Page Hosting Service
+
+https://jherza-x.github.io/belly-button-challenge/
